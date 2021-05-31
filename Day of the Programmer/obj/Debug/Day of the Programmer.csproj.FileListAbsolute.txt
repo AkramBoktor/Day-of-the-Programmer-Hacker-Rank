@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\obj\Debug\Day of the Programmer.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\obj\Debug\Day of the Programmer.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\bin\Debug\Day of the Programmer.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\bin\Debug\Day of the Programmer.exe
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\bin\Debug\Day of the Programmer.pdb
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\obj\Debug\Day of the Programmer.exe
+C:\Users\Akram\Desktop\HackerRank\Day6\Day of the Programmer\obj\Debug\Day of the Programmer.pdb
